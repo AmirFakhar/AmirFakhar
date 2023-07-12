@@ -5,7 +5,7 @@ let usersData = [//users that they registred
   {id:2,username:"hasan",pass:'hasan123'},
   {id:3,username:"pari",pass:'pari562501'},
   {id:4,username:"parsa",pass:'parsa'},
-  {id:5,username:"amin",pass:'mashalla'},
+  {id:5,username:"amin",pass:'amin123'},
   {id:6,username:"amirreza",pass:'reza123'},
   {id:7,username:"ali",pass:'123ali'}
 ]
